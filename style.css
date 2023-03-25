@@ -7,7 +7,7 @@ html {
 body {
   margin: 0;
   min-height: 100vh;
-  background: radial-gradient(circle at 10% 20%, rgb(69, 86, 102) 0%, rgb(34, 34, 34) 90%);
+  background: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -18,7 +18,7 @@ body {
 .player-container {
   height: 500px;
   width: 400px;
-  background: radial-gradient(circle at 10% 20%, rgb(42, 49, 56) 0%, rgb(49, 46, 46) 90%);
+  background: linear-gradient(108.4deg, rgb(201, 180, 181) 3.3%, rgb(167, 19, 27) 98.4%);
   border-radius: 20px;
   box-shadow: 0 15px 30px 5px rgba(0, 0, 0, 0.3);
 }
@@ -87,7 +87,7 @@ h3 {
 
 .fas {
   font-size: 30px;
-  color: rgb(129, 129, 129);
+  color: #242323;
   margin-right: 30px;
   cursor: pointer;
   user-select: none;

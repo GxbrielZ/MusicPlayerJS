@@ -18,7 +18,7 @@ const songs = [
     },
     {
         name: 'KennyHoopla',
-        displayName: 'How Will I Rest In Peace If I\'m Burried By A Highway?',
+        displayName: 'How Will I Rest In Peace If...',
         artist: 'KennyHoopla'
     },
     {
